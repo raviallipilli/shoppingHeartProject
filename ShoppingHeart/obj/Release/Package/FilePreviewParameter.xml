@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="luckyravi17-001-subsite2" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\lucky\\Desktop\\PROJECTS\\SH\ 5\.0\\ShoppingHeart\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\lucky\\Desktop\\PROJECTS\\SH\ 5\.0\\ShoppingHeart\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="MyConn-Web.config Connection String" description="" value="Data Source=sql6001.smarterasp.net;Initial Catalog=DB_A1ED67_shopdb;Persist Security Info=True;User ID=DB_A1ED67_shopdb_admin;Password=ravi17071983;TrustServerCertificate=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\lucky\\Desktop\\PROJECTS\\SH\ 5\.0\\ShoppingHeart\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MyConn']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,47 @@
+
+				
+			****20Fingers2Brains Shopping Cart Project in ASP.NET C# SQL****
+
+	Note:	If You Don't Want to Go Through Source Code in Video Series You Can Buy the Source Code.
+		For Buying the Source Code you can Contact us on Facebook.com/20Fingers2Brains         
+
+	Introduction to Shopping Cart Project in ASP.NET
+	Part 1: New Project in Visual Studio and Project Structure
+	Part 2: Admin Login Page Design and Admin Login Page Code
+	Part 3: Admin Master Page Design for Admin Module and Adding Child Pages
+	Part 4: Design of Add New Category and Add New Products Page and Products and Category Tables in DB
+	Part 5: Data Flow from One Layer to Another Layer and finally Getting Saved in DB
+	Part 6: Getting Categories and Coding for Adding New Prodoucts in a Particular Category
+	Part 7: Design of Home Page of Shopping Cart Project --Partially Done
+	Part 8: Changes to Shopping Cart and More Enhancements
+	Part 9  :Design for Products and Categories , Empty Cart and Order Placed Sucessfully
+	Part 10 :Design for MyCart and CheckOut Form
+	Part 11 :Coding To Get All Categories,Coding to Get All Products
+	Part 12 :Coding for Adding Products to Shopping cart
+	Part 13 :Coding for Highlighting Added Produts & Binding Products to MyCart
+	Part 14 :Coding for Updating Products Bill and Removing Products from Cart.
+	Part 15 :Placing Order with customer details & CheckOut Process
+	Part 16 :Sending Email to Customers after Products Purchase.
+	Part 17 :Admin All Products & Categories Design and Code
+	Part 18 :Admin-Customer Details Code and Design
+	Part 19 :Product Stock Code and Design
+	Part 20 :Income Report Design and Code
+	Part 21 :Code & Design for Tracking Order by User and Admin
+
+	Rest of the Coding to be covered Next Parts .................................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

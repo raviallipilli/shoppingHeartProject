@@ -1,0 +1,10 @@
+F:\20F2B\Projects\ShoppingHeart\SH 3.5\ShoppingHeart\bin\ShoppingHeart.dll
+F:\20F2B\Projects\ShoppingHeart\SH 3.5\ShoppingHeart\bin\ShoppingHeart.pdb
+F:\20F2B\Projects\ShoppingHeart\SH 3.5\ShoppingHeart\obj\Release\ShoppingHeart.dll
+F:\20F2B\Projects\ShoppingHeart\SH 3.5\ShoppingHeart\obj\Release\ShoppingHeart.pdb
+C:\Users\lucky\Desktop\PROJECTS\SH 5.0\ShoppingHeart\bin\ShoppingHeart.dll.config
+C:\Users\lucky\Desktop\PROJECTS\SH 5.0\ShoppingHeart\bin\ShoppingHeart.dll
+C:\Users\lucky\Desktop\PROJECTS\SH 5.0\ShoppingHeart\bin\ShoppingHeart.pdb
+C:\Users\lucky\Desktop\PROJECTS\SH 5.0\ShoppingHeart\obj\Release\ShoppingHeart.csprojResolveAssemblyReference.cache
+C:\Users\lucky\Desktop\PROJECTS\SH 5.0\ShoppingHeart\obj\Release\ShoppingHeart.dll
+C:\Users\lucky\Desktop\PROJECTS\SH 5.0\ShoppingHeart\obj\Release\ShoppingHeart.pdb

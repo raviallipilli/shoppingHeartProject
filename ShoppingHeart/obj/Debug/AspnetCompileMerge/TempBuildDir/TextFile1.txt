@@ -1,0 +1,17 @@
+﻿--Declare @Query as NVARCHAR(max)
+		--Declare @ProductIds as varchar(max) 
+
+		--Select @ProductIds=ProductList from CustomerDetails where Id=@TransactionNo
+
+		--set @Query ='select * from Products where ProductID in('+@ProductIds+')'
+
+
+		----EXECUTE sp_executesql @Query
+
+
+
+		truncate table category
+truncate table CustomerDetails
+truncate table CustomerProducts
+truncate table Deliverystatus
+truncate table products
